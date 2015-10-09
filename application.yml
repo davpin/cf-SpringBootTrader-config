@@ -17,7 +17,7 @@ logging:
      io:
         pivotal: DEBUG
      com:
-        netflix: WARN
+        netflix: FATAL
      org:
         springframework:
            web: WARN
