@@ -8,3 +8,13 @@ management:
   health:
     rabbit:
       enabled: false
+logging:
+  level:
+     io:
+        pivotal: DEBUG
+     com:
+        netflix: INFO
+     org:
+        springframework:
+           web: WARN
+           cloud: INFO
