@@ -6,5 +6,5 @@ logging:
         netflix: FATAL
      org:
         springframework:
-           web: WARN
-           cloud: INFO
+           web: INFO
+           cloud: WARN
