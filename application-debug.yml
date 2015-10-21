@@ -3,7 +3,7 @@ logging:
      io:
         pivotal: DEBUG
      com:
-        netflix: FATAL
+        netflix: INFO
      org:
         springframework:
            web: INFO
