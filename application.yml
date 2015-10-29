@@ -22,3 +22,6 @@ logging:
         springframework:
            web: WARN
            cloud: WARN
+security:
+  basic:
+    enabled: false
