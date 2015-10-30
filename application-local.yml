@@ -16,5 +16,5 @@ logging:
         netflix: INFO
      org:
         springframework:
-           web: WARN
+           web: INFO
            cloud: WARN
