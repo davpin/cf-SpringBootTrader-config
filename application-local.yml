@@ -17,4 +17,4 @@ logging:
      org:
         springframework:
            web: WARN
-           cloud: INFO
+           cloud: WARN
