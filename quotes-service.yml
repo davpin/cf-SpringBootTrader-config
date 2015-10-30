@@ -4,6 +4,7 @@ spring:
 pivotal:
   quotes:
     quotes_url: http://dev.markitondemand.com/Api/v2/Quote/json?symbol={symbol}
+    quotes_url2: http://globalquotes.xignite.com/v3/xGlobalQuotes.json/GetGlobalDelayedQuote?IdentifierType=Symbol&Identifier={symbol}
     companies_url: http://dev.markitondemand.com/Api/v2/Lookup/json?input={name}
 security:
   basic:
