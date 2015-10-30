@@ -2,3 +2,6 @@ spring:
   cloud:
     services:
       registrationMethod: route
+eureka:
+  instance:
+     nonSecurePort: 80
