@@ -7,6 +7,6 @@ logging:
      org:
         springframework:
            web: DEBUG
-           cloud: DEBUG
+           cloud: 
              sleuth:
                log: WARN
