@@ -6,5 +6,5 @@ logging:
         netflix: DEBUG
      org:
         springframework:
-           web: INFO
-           cloud: WARN
+           web: DEBUG
+           cloud: DEBUG
